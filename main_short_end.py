@@ -44,3 +44,4 @@ else :
         print("You lose !")
     else :
         print("You win !")
+#SHORT CODE 
